@@ -6,8 +6,6 @@ public class I18N {
     private String idioma;
     private static I18N instance;
 
-
-    private I18N instance;
     private I18N (String idioma){
         data = new
     }
