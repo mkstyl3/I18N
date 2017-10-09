@@ -9,9 +9,10 @@ import java.util.ResourceBundle;
 public class I18N {
 
     // private String idioma;
-    private static I18N instance;
+    private static I18N instance = null;
     private static HashMap<String, ResourceBundle> rb;
-    private static final String RESOURCES="edu.upc.dsa.singleton.i18n";
+    private static final String RESOURCES="edu.upc.dsa.i18n";
+
 
     private I18N (){
 
