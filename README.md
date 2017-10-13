@@ -1,1 +1,1 @@
-# Exercici de clase I18N (amb singleton)
+# Exercici de classe I18N (amb singleton)
