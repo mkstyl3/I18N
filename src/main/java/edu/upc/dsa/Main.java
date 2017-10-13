@@ -8,6 +8,8 @@ package edu.upc.dsa;
 public class Main {
 
     public static void main( String [] args) {
-        //18N.getInstance().getData("T1","en");
+        System.out.println(I18N.getInstance().getData("T1", "en"));
+        System.out.println(I18N.getInstance().getData("T2", "es"));
+        System.out.println(I18N.getInstance().getData("T3", "ca"));
     }
 }

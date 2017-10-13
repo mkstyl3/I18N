@@ -1,1 +1,1 @@
-# Exercici de clase edu.upc.dsa.I18N (amb singleton)
+# Exercici de clase I18N (amb singleton)
